@@ -71,7 +71,7 @@ git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE
 ```
 
 ```bash
-cd main.py
+python main.py
 ```
 
 <!-- Screenshots -->
