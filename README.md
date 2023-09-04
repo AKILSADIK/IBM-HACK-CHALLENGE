@@ -4,7 +4,7 @@
 <p align="center">
   
 ![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange?logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange?logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-red?logo=opencv)
 ![Flask](https://img.shields.io/badge/Flask-2.0-green?logo=flask)
 ![gdown](https://img.shields.io/badge/gdown-3.13.0-blueviolet)
