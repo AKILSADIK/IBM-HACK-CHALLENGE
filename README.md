@@ -82,27 +82,27 @@ python main.py
 <!-- Screenshots -->
 ## Screenshots
 
-Screenshot 1 for Introduction page
+Introduction page
 
 ![Intro page](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot1.jpeg)
 
 
 
-Screenshot 2 for uploading page
+Uploading page
 
 ![Uploading audio](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot2.jpeg)
 
 
-Screenshot 3 for Website view
+Website view
 
 ![Website view](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot3.jpeg)
 
 
-Screenshot 4 for Our uniqueness
+Our uniqueness
 
 ![Our Uniqueness](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot4.jpeg)
 
-Screenshot 5 for Contributers and support
+Contributers and support
 
 ![Contributers and support](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot5.jpeg)
 
