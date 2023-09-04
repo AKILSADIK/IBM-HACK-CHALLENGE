@@ -33,7 +33,7 @@
 Here are the technologies and tools used in this project:
 
 - [![Python](https://img.shields.io/badge/Python-3.8%20%7C%203.9-blue?logo=python)](https://www.python.org/)
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange?logo=tensorflow)](https://www.tensorflow.org/)
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10-orange?logo=tensorflow)](https://www.tensorflow.org/)
 - [![OpenCV](https://img.shields.io/badge/OpenCV-4.5-red?logo=opencv)](https://opencv.org/)
 - [![Flask](https://img.shields.io/badge/Flask-2.0-green?logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 - [![gdown](https://img.shields.io/badge/gdown-3.13.0-blueviolet)](https://github.com/wkentaro/gdown)
