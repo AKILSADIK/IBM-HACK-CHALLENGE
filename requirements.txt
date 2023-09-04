@@ -2,3 +2,5 @@ Flask
 opencv-python
 numpy
 tensorflow==2.10.0
+scipy
+opencv-contrib-python
