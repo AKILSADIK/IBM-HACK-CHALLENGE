@@ -77,32 +77,27 @@ Here are the technologies and tools used in this project:
 <!-- Screenshots -->
 ## Screenshots
 
-Screenshot 1
-Caption for Screenshot 1
+Screenshot 1 for Introduction page
 
 ![Intro page](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/80937fef-a483-4ca5-b900-74a3dff69917)
 
 
 
-Screenshot 2
-Caption for Screenshot 2
+Screenshot 2 for uploading page
 
 ![Uploading audio](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/98dacbae-103d-4b39-a4e5-1d0e9e1d5367)
 
 
-Screenshot 3
-Caption for Screenshot 3
+Screenshot 3 for Website view
 
 ![Website view](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/16617990-0a4d-4489-8cb2-0f1a2e3a1b1c)
 
 
-Screenshot 4
-Caption for Screenshot 4
+Screenshot 4 for Our uniqueness
 
 ![Our Uniqueness](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/90f09294-3f9e-4530-b422-8c6afdee4b72)
 
-Screenshot 5
-Caption for Screenshot 5
+Screenshot 5 for Contributers and support
 
 ![Contributers and support](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/8581a66d-2989-4f44-88a5-b6302e261b55)
 
