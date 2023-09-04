@@ -80,13 +80,15 @@ Here are the technologies and tools used in this project:
 Screenshot 1
 Caption for Screenshot 1
 
-![Intro page](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/d2bd9053-eaa2-465e-af6b-3b36d0022ac5)
+![Intro page](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/80937fef-a483-4ca5-b900-74a3dff69917)
+
 
 
 Screenshot 2
 Caption for Screenshot 2
 
-![Uploading audio](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/d7c919e6-f5f4-4049-a4f2-b392a6ee0918)
+![Uploading audio](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/98dacbae-103d-4b39-a4e5-1d0e9e1d5367)
+
 
 Screenshot 3
 Caption for Screenshot 3
