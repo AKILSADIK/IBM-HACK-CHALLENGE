@@ -84,27 +84,27 @@ python main.py
 
 Screenshot 1 for Introduction page
 
-![Intro page](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/80937fef-a483-4ca5-b900-74a3dff69917)
+![Intro page](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot1.jpeg)
 
 
 
 Screenshot 2 for uploading page
 
-![Uploading audio](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/assets/113614113/98dacbae-103d-4b39-a4e5-1d0e9e1d5367)
+![Uploading audio](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot2.jpeg)
 
 
 Screenshot 3 for Website view
 
-![Website view](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/16617990-0a4d-4489-8cb2-0f1a2e3a1b1c)
+![Website view](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot3.jpeg)
 
 
 Screenshot 4 for Our uniqueness
 
-![Our Uniqueness](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/90f09294-3f9e-4530-b422-8c6afdee4b72)
+![Our Uniqueness](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot4.jpeg)
 
 Screenshot 5 for Contributers and support
 
-![Contributers and support](https://github.com/AKILSADIK/Infozyn-page-4/assets/113614113/8581a66d-2989-4f44-88a5-b6302e261b55)
+![Contributers and support](https://github.com/AKILSADIK/IBM-HACK-CHALLENGE/blob/main/static/images/screenshot5.jpeg)
 
 
 <!-- Contributing -->
