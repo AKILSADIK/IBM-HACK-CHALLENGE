@@ -59,7 +59,7 @@ Here are the technologies and tools used in this project:
 <!-- Installation -->
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AKILSADIK/Infozyn-page-4`
+1. Clone the repository: `git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE`
 2. Navigate to the project and run main.py
 
 <!-- Usage -->
@@ -67,11 +67,11 @@ Here are the technologies and tools used in this project:
 
 
 ```bash
-
+git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE
 ```
 
 ```bash
-
+cd main.py
 ```
 
 <!-- Screenshots -->
