@@ -1,4 +1,4 @@
- <h1 align="center">Lip Reading using CNN and GRU</h1>
+<h1 align="center">Lip Reading using CNN and GRU</h1>
 
 <!-- Badges -->
 <p align="center">
@@ -59,8 +59,9 @@ Here are the technologies and tools used in this project:
 <!-- Installation -->
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE`
-2. Navigate to the project and run main.py
+1. Now install Requirements.txt as `pip install -r requirements.txt`
+2. Clone the repository: `git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE`
+3. Navigate to the project and run main.py
 
 <!-- Usage -->
 ## Usage
@@ -73,7 +74,9 @@ git clone https://github.com/AKILSADIK/IBM-HACK-CHALLENGE
 ```bash
 python main.py
 ```
+
 ## Demonstration video link
+
 
 
 <!-- Screenshots -->
